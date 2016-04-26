@@ -4,7 +4,7 @@
         <description><![CDATA[KreativeWorx]]></description>
         <link>https://thegrid.ai/kreativeworx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 15:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 15:52:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kreativeworx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to KreativeWorx]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kreativeworx/welcome-to-kreativeworx/index.html</link>
             <guid isPermaLink="false">46a34e3e-9bde-4b6f-83e3-4bc3a1999f79</guid>
             <pubDate>Tue, 26 Apr 2016 15:46:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we do]]></title>
+            <description><![CDATA[<article><h1>What we do</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0aa5b64d15db8164f049b33cf04dbe6ab4f67736.png"></article>]]></description>
+            <link>https://thegrid.ai/kreativeworx/what-we-do/index.html</link>
+            <guid isPermaLink="false">d4867287-187a-401a-9a43-cdcc55620808</guid>
+            <pubDate>Tue, 26 Apr 2016 15:52:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
