@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to KreativeWorx
-datePublished: '2016-04-26T00:30:46.905Z'
-dateModified: '2016-04-26T00:30:36.259Z'
+datePublished: '2016-04-26T13:25:12.107Z'
+dateModified: '2016-04-26T13:24:58.859Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-welcome-to-kreativeworx.md
@@ -22,6 +22,7 @@ url: welcome-to-kreativeworx/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7055abdf-0010-4aeb-b44e-ed7f51cd2e45.jpg)
-
 Welcome to KreativeWorx
+
+Computer Repairs, Upgrades,  
+Clean-ups, Back-ups & Advice
