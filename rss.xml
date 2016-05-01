@@ -4,7 +4,7 @@
         <description><![CDATA[kreativeworx]]></description>
         <link>http://kreativeworx.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 14:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 14:10:45 GMT</lastBuildDate>
         <atom:link href="http://kreativeworx.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Sun, 01 May 2016 13:59:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Products]]></title>
+            <description><![CDATA[<article><h1>Products</h1><p>Instead of selling you computers, laptops or parts directly, we help you shop locally for the best deals in your area. We will however provide you with all the services. This includes: Installation, Configuration and Customization.Please contact us today to discuss the details. </p></article>]]></description>
+            <link>http://kreativeworx.ca/products/index.html</link>
+            <guid isPermaLink="false">02c6882a-b8ce-48e1-831e-bf0ede5a846e</guid>
+            <pubDate>Sun, 01 May 2016 14:09:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gaming PC]]></title>
             <description><![CDATA[<article><h1>Gaming PC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/878e613317d3b81ff07b8d408dc04c014f69210d.jpg"></article>]]></description>
             <link>http://www.canadacomputers.com/popup_image.php?pID=093627&amp;sid=ns36ijtghqt0nkq6ig9gvjfht0</link>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Business Computer]]></title>
-            <description><![CDATA[<article><h1>Business Computer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5a3ee05a8ab12060913434a7d333b4b5b3892c2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Business Computer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f13c67cf6fe5b397995d8fcbaeec4ea7976daf.jpg"></article>]]></description>
             <link>http://www.canadacomputers.com/popup_image.php?pID=088379&amp;sid=q1rsi46qep6rm3v03r94isom24</link>
             <guid isPermaLink="false">a0a3f139-4c98-4f13-9e85-4cb63056f1e6</guid>
             <pubDate>Sun, 01 May 2016 13:57:55 GMT</pubDate>
