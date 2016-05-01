@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=_-nIXLahRQY'
+inLanguage: null
+keywords: []
+description: 'This video will illustrate how to replace the Memory Module(s) in your ThinkPad T440, T440s, T450 or T450s laptop. This video is useful for those who are replacing bad RAM or interested in upgrading their RAM. ** NOTE: Static electricity can destroy components. Use a grounding strap, and clean, non-conductive surface to work on.'
+datePublished: '2016-05-01T10:49:18.141Z'
+dateModified: '2016-05-01T10:49:17.878Z'
 author:
   - name: Lenovo Service
     url: 'https://www.youtube.com/channel/UCiNzWKyztaaAe6m0yx9ONLw'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'This video will illustrate how to replace the Memory Module(s) in your ThinkPad T440, T440s, T450 or T450s laptop. This video is useful for those who are replacing bad RAM or interested in upgrading their RAM. ** NOTE: Static electricity can destroy components. Use a grounding strap, and clean, non-conductive surface to work on.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_-nIXLahRQY'
 title: 'ThinkPad T440, T440s, T450, T450s - Memory Module Replacement'
-datePublished: '2016-04-29T18:56:39.711Z'
-dateModified: '2016-04-29T18:56:05.413Z'
-starred: false
 sourcePath: _posts/2016-04-29-thinkpad-t440-t440s-t450-t450s-memory-module-replacemen.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
