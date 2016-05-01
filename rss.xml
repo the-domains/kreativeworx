@@ -4,21 +4,21 @@
         <description><![CDATA[kreativeworx]]></description>
         <link>http://kreativeworx.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 14:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 14:14:49 GMT</lastBuildDate>
         <atom:link href="http://kreativeworx.ca/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Computer Repairs, Upgrades,Clean-ups, Back-ups & Advice.</p></article>]]></description>
-            <link>http://kreativeworx.ca/welcome-to-kreativeworx/index.html</link>
-            <guid isPermaLink="false">46a34e3e-9bde-4b6f-83e3-4bc3a1999f79</guid>
-            <pubDate>Sun, 01 May 2016 14:14:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Products]]></title>
             <description><![CDATA[<article><h1>Products</h1><p>Instead of selling you computers, laptops or parts directly, we help you shop locally for the best deals in your area. We will however provide you with all the services. This includes: Installation, Configuration and Customization.Please contact us today to discuss the details. </p></article>]]></description>
             <link>http://kreativeworx.ca/products/index.html</link>
             <guid isPermaLink="false">02c6882a-b8ce-48e1-831e-bf0ede5a846e</guid>
             <pubDate>Sun, 01 May 2016 14:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Computer Repairs, Upgrades,Clean-ups, Back-ups & Advice</p></article>]]></description>
+            <link>http://kreativeworx.ca/welcome-to-kreativeworx/index.html</link>
+            <guid isPermaLink="false">46a34e3e-9bde-4b6f-83e3-4bc3a1999f79</guid>
+            <pubDate>Sun, 01 May 2016 13:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
@@ -36,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Business Computer]]></title>
-            <description><![CDATA[<article><h1>Business Computer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae81d104543829527f728d10b2c80c5a2ceb7fc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Business Computer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f13c67cf6fe5b397995d8fcbaeec4ea7976daf.jpg"></article>]]></description>
             <link>http://www.canadacomputers.com/popup_image.php?pID=088379&amp;sid=q1rsi46qep6rm3v03r94isom24</link>
             <guid isPermaLink="false">a0a3f139-4c98-4f13-9e85-4cb63056f1e6</guid>
             <pubDate>Sun, 01 May 2016 14:13:55 GMT</pubDate>
