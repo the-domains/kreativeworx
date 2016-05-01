@@ -4,8 +4,15 @@
         <description><![CDATA[kreativeworx]]></description>
         <link>http://kreativeworx.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 13:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 13:59:22 GMT</lastBuildDate>
         <atom:link href="http://kreativeworx.ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>KreativeWorx is a Kitchener-Waterloo based company.We have been performing computer services to individuals, families and small businesses for over 15 years.</p></article>]]></description>
+            <link>http://kreativeworx.ca/who-we-are/index.html</link>
+            <guid isPermaLink="false">3a712591-9299-41cd-bc8f-44067e46a15a</guid>
+            <pubDate>Sun, 01 May 2016 13:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>We meet with you to discuss your needs. From providing you with advice on buying a new computer, to repairing or restoring data from an existing PC. We provide email support to all our customers, and will come to your home or business to fix any issues.</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://kreativeworx.ca/welcome-to-kreativeworx/index.html</link>
             <guid isPermaLink="false">46a34e3e-9bde-4b6f-83e3-4bc3a1999f79</guid>
             <pubDate>Sun, 01 May 2016 11:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who we are]]></title>
-            <description><![CDATA[<article><h1>Who we are</h1><p>KreativeWorx is a Kitchener-Waterloo based company.We have been performing computer services to individuals, families and small businesses for over 15 years.</p></article>]]></description>
-            <link>http://kreativeworx.ca/who-we-are/index.html</link>
-            <guid isPermaLink="false">3a712591-9299-41cd-bc8f-44067e46a15a</guid>
-            <pubDate>Sun, 01 May 2016 10:52:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business Computer]]></title>
