@@ -4,7 +4,7 @@
         <description><![CDATA[kreativeworx]]></description>
         <link>http://kreativeworx.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 10:49:18 GMT</lastBuildDate>
         <atom:link href="http://kreativeworx.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to KreativeWorx]]></title>
@@ -12,6 +12,13 @@
             <link>http://kreativeworx.ca/welcome-to-kreativeworx/index.html</link>
             <guid isPermaLink="false">46a34e3e-9bde-4b6f-83e3-4bc3a1999f79</guid>
             <pubDate>Fri, 29 Apr 2016 19:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ThinkPad T440, T440s, T450, T450s - Memory Module Replacement]]></title>
+            <description><![CDATA[<article><h1>ThinkPad T440, T440s, T450, T450s - Memory Module Replacement</h1><p>This video will illustrate how to replace the Memory Module(s) in your ThinkPad T440, T440s, T450 or T450s laptop. This video is useful for those who are replacing bad RAM or interested in upgrading their RAM. ** NOTE: Static electricity can destroy components. Use a grounding strap, and clean, non-conductive surface to work on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb2deea5e0c38a1644e3fe86d7a87ef6d74a5b7e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_-nIXLahRQY</link>
+            <guid isPermaLink="false">8a31680a-1e34-4da2-b25d-68e82db0af37</guid>
+            <pubDate>Sun, 01 May 2016 10:49:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What we do]]></title>
@@ -33,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=BovgvppZX4k</link>
             <guid isPermaLink="false">53413954-45af-45cb-9f75-d54136745980</guid>
             <pubDate>Fri, 29 Apr 2016 19:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ThinkPad T440, T440s, T450, T450s - Memory Module Replacement]]></title>
-            <description><![CDATA[<article><h1>ThinkPad T440, T440s, T450, T450s - Memory Module Replacement</h1><p>This video will illustrate how to replace the Memory Module(s) in your ThinkPad T440, T440s, T450 or T450s laptop. This video is useful for those who are replacing bad RAM or interested in upgrading their RAM. ** NOTE: Static electricity can destroy components. Use a grounding strap, and clean, non-conductive surface to work on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb2deea5e0c38a1644e3fe86d7a87ef6d74a5b7e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_-nIXLahRQY</link>
-            <guid isPermaLink="false">8a31680a-1e34-4da2-b25d-68e82db0af37</guid>
-            <pubDate>Fri, 29 Apr 2016 18:56:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
