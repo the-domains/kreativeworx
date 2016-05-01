@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: 'Computer Repairs, Upgrades, Clean-ups, Back-ups & Advice.'
-datePublished: '2016-05-01T10:49:38.054Z'
-dateModified: '2016-05-01T10:47:40.424Z'
+description: 'Computer Repairs, Upgrades, Clean-ups, Back-ups & Advice'
+datePublished: '2016-05-01T11:28:13.827Z'
+dateModified: '2016-05-01T11:28:08.771Z'
 title: Welcome to KreativeWorx
 author: []
 sourcePath: _posts/2016-04-26-welcome-to-kreativeworx.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Welcome to KreativeWorx
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef155690-9b04-4b1e-82af-99cccccbdd64.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f4bd68932607eccf5507cb62e7af5bfaff8154.jpg)
 
 Computer Repairs, Upgrades,  
-Clean-ups, Back-ups & Advice.
+Clean-ups, Back-ups & Advice
