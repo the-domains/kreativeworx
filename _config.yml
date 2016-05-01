@@ -1,6 +1,6 @@
 name: kreativeworx
 favicon: null
-layout_spectrum: 0.4967
+layout_spectrum: 0.53524
 typography_spectrum: 0.49729
 title: null
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b7482d'
     - '#d7a437'
     - '#8e9294'
-  brandStrength: 0.5625
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
