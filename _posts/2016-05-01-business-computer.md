@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.canadacomputers.com/popup_image.php?pID=088379&sid=q1r
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-01T13:57:55.220Z'
-dateModified: '2016-05-01T13:56:59.599Z'
+datePublished: '2016-05-01T14:13:55.568Z'
+dateModified: '2016-05-01T14:13:44.468Z'
 author:
   - name: ''
     url: ''
@@ -25,5 +25,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## Business Computer
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a176551-2942-4ac3-895e-ba8b39c315fa.jpg)
+# Business Computer
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f13c67cf6fe5b397995d8fcbaeec4ea7976daf.jpg)
